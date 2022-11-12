@@ -1,3 +1,3 @@
-# Thomas Bouve Photography
+# Thomas Bouve Fotografie
 
 Legacy static website hosting.
